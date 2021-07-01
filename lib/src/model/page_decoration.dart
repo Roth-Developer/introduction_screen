@@ -70,7 +70,7 @@ class PageDecoration {
       fontWeight: FontWeight.bold,
     ),
     this.bodyTextStyle = const TextStyle(
-      fontSize: 18.0,
+      fontSize: 60.0,
       fontWeight: FontWeight.normal,
     ),
     this.boxDecoration,
