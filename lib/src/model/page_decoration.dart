@@ -66,7 +66,7 @@ class PageDecoration {
   const PageDecoration({
     this.pageColor,
     this.titleTextStyle = const TextStyle(
-      fontSize: 30.0,
+      fontSize: 60.0,
       fontWeight: FontWeight.bold,
     ),
     this.bodyTextStyle = const TextStyle(
